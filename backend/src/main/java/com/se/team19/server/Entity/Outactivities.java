@@ -23,14 +23,14 @@ public class Outactivities {
 
 
 
-    public Outactivities() {}
-
-    public Outactivities(Long activities_id, String nameActivities,String nameRequestor,String Description,String phonenumber) {
-        this.activities_id = activities_id;
-        this.nameActivities = nameActivities;
-        this.nameRequestor = nameRequestor;
-        this.Description = Description;
-        this.phonenumber = phonenumber;
-    }
+//    public Outactivities() {}
+//
+//    public Outactivities(Long activities_id, String nameActivities,String nameRequestor,String Description,String phonenumber) {
+//        this.activities_id = activities_id;
+//        this.nameActivities = nameActivities;
+//        this.nameRequestor = nameRequestor;
+//        this.Description = Description;
+//        this.phonenumber = phonenumber;
+//    }
 
 }
